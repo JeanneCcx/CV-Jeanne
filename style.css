@@ -2,13 +2,13 @@ body{
   background: rgb(245,245,245);
   color: black;
   font-size: 16px;
-  font-family: Gill Sans MT;
+  font-family: VAG Rounded;
   text-align: center;
 }
 h1,h2
 	<div>
 h1{
-  font-family: Gill Sans MT;
+  font-family: VAG Rounded;
   color: blue;
   font-weight: bolder;
   font-size: 75px;
@@ -16,7 +16,7 @@ h1{
 }
 	</div>
 h2 {
-  font-family: Gill Sans MT;
+  font-family: VAG Rounded;
   color: blue;
   font-weight: lighter;
   font-size: 50px;
@@ -40,7 +40,7 @@ a hover {
 }
 
 #etudiante  {
-  font-family: Gill Sans MT;
+  font-family: VAG Rounded;
   color: white;
   font-size: 20px;
   font-weight: bold;
