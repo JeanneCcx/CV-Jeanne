@@ -1,14 +1,14 @@
-body{
+hbody{
   background: rgb(245,245,245);
   color: black;
   font-size: 16px;
-  font-family: VAG Rounded;
+  font-family: Centhury Gothic;
   text-align: center;
 }
 h1,h2
 	<div>
 h1{
-  font-family: VAG Rounded;
+  font-family: Centhury Gothic;
   color: blue;
   font-weight: bolder;
   font-size: 75px;
